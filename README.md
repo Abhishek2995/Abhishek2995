@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 👋 Hi, I’m Abhishek Verma
+- 👀 I’m interested in Software Development | Java Development
 - 🌱 I’m currently learning New Technologies in Java
 - 📫 How to reach me: ...
 -->
